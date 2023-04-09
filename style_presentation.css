@@ -1,0 +1,31 @@
+.elem1 {
+    font-size: 1em;
+}
+    
+.elem2 {
+    font-size: 1.3em;
+}
+    
+.elem3 {
+    font-size: 2em;
+}
+
+.centered {
+    text-align: center;
+}
+
+body{
+    font-family: serif;
+    margin: 0;
+    background-color: azure;
+}
+
+a{
+    color: lightblue;
+    text-decoration: none;
+}
+
+.banniere{
+    background-image: url(img/jhin_cool.jpg);
+    background-size: auto;
+}
