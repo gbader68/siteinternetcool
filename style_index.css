@@ -1,0 +1,22 @@
+.elem1 {
+    font-size: 1em;
+}
+    
+.elem2 {
+    font-size: 1.3em;
+}
+
+.elem3 {
+    font-size: 2em;
+}
+
+.ouaou{
+    font-size: 2em;
+    text-align: center;
+    border: 3mm ridge rgb(255, 187, 0);
+    width:fit-content;
+    margin-inline-end: 30px;
+}
+.ouaou:hover{
+    background-color: yellowgreen;
+}
